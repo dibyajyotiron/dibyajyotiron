@@ -84,8 +84,8 @@ Backend engineer with 8+ years of experience designing scalable, low-latency sys
 ---
 
 ## Open source & projects
-- **bst-nodejs** — open-source npm package with **4,000+ downloads**  
-- **General Ledger** — double-entry ledger system with high concurrency  
+- **bst-nodejs** — open-source npm package with **4,000+ downloads** - https://github.com/dibyajyotiron/bst-nodejs
+- **General Ledger** — double-entry ledger system with high concurrency - https://github.com/dibyajyotiron/general_ledger_golang
 
 ---
 
