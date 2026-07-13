@@ -13,7 +13,7 @@
 ---
 
 ## Executive summary
-Backend engineer with 8+ years of experience designing scalable, low-latency systems in finance and Web3. Built distributed services handling **140M+ users** and **100K+ transactions/sec**. Specialized in **performance tuning** and **cost-optimized distributed systems**.
+Senior Backend engineer designing scalable, low-latency systems in fintech and Web3. Built distributed services handling **140M+ users** and **100K+ transactions/sec**. Specialized in **performance tuning** and **cost-optimized distributed systems**.
 
 ---
 
