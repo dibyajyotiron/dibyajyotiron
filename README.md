@@ -1,5 +1,5 @@
 <h1 align="left">Dibyajyoti Ghosal</h1>
-<p align="left"><b>Senior Backend Engineer (8+ YOE)</b> • Go / TypeScript • Low-latency Distributed Systems • AWS / Kubernetes</p>
+<p align="left"><b>Senior Backend Engineer (9+ YOE)</b> • Go / TypeScript • Low-latency Distributed Systems • AWS / Kubernetes</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dibyajyoti-ghosal">LinkedIn</a> •
